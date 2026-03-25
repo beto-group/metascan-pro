@@ -1,0 +1,25 @@
+{
+  "name": "obsidian-metascan-pro",
+  "version": "1.0.0",
+  "description": "Metascan Pro Obsidian Plugin",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
+  "keywords": [],
+  "author": "beto.group",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.21",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "esbuild": "0.14.21",
+    "obsidian": "latest",
+    "typescript": "4.5.5"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
