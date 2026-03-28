@@ -1,7 +1,7 @@
 {
 	"id": "metascan-pro",
 	"name": "Metascan Pro",
-	"version": "1.0.9",
+	"version": "1.0.10",
 	"minAppVersion": "0.15.0",
 	"description": "High-fidelity element inspector and metadata extractor.",
 	"author": "beto.group",
